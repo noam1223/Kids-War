@@ -1,0 +1,3049 @@
+fileFormatVersion: 2
+guid: ccb1b710a94b94ae5811b23e80515031
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5801762202914483822
+    second: teleporter_hit_0
+  - first:
+      213: 5355129866990382355
+    second: teleporter_hit_1
+  - first:
+      213: 6230783078887785440
+    second: teleporter_hit_2
+  - first:
+      213: -7561248591158946294
+    second: teleporter_hit_3
+  - first:
+      213: -6695535118636718299
+    second: teleporter_hit_4
+  - first:
+      213: 3231250931608195314
+    second: teleporter_hit_5
+  - first:
+      213: -6477708211844464310
+    second: teleporter_hit_6
+  - first:
+      213: 732576753859254690
+    second: teleporter_hit_7
+  - first:
+      213: 8303648697907948016
+    second: teleporter_hit_8
+  - first:
+      213: 8381123340271791634
+    second: teleporter_hit_9
+  - first:
+      213: -2669081248877184011
+    second: teleporter_hit_10
+  - first:
+      213: 8070993870181354935
+    second: teleporter_hit_11
+  - first:
+      213: -8069310498472021621
+    second: teleporter_hit_12
+  - first:
+      213: 3756428026533547301
+    second: teleporter_hit_13
+  - first:
+      213: -7860083151301413421
+    second: teleporter_hit_14
+  - first:
+      213: 3717779535914412069
+    second: teleporter_hit_15
+  - first:
+      213: -4479185897912935304
+    second: teleporter_hit_16
+  - first:
+      213: 4738064616677464520
+    second: teleporter_hit_17
+  - first:
+      213: 3103563689546807854
+    second: teleporter_hit_18
+  - first:
+      213: 4775770400413868056
+    second: teleporter_hit_19
+  - first:
+      213: 1372797845738091459
+    second: teleporter_hit_20
+  - first:
+      213: -1572795816451466045
+    second: teleporter_hit_21
+  - first:
+      213: -8122536274991875712
+    second: teleporter_hit_22
+  - first:
+      213: -8716555833447963680
+    second: teleporter_hit_23
+  - first:
+      213: -3850019096668347707
+    second: teleporter_hit_24
+  - first:
+      213: -3393744077395555936
+    second: teleporter_hit_25
+  - first:
+      213: -114133182509815245
+    second: teleporter_hit_26
+  - first:
+      213: -6284832245908109673
+    second: teleporter_hit_27
+  - first:
+      213: 3198304397146213324
+    second: teleporter_hit_28
+  - first:
+      213: 3149174927208444262
+    second: teleporter_hit_29
+  - first:
+      213: -6150065043581705289
+    second: teleporter_hit_30
+  - first:
+      213: 2431584841970182770
+    second: teleporter_hit_31
+  - first:
+      213: -2120067717314285338
+    second: teleporter_hit_32
+  - first:
+      213: -6482083828237638854
+    second: teleporter_hit_33
+  - first:
+      213: -4512369144694183898
+    second: teleporter_hit_34
+  - first:
+      213: 3003461922044213565
+    second: teleporter_hit_35
+  - first:
+      213: -5416540976862897812
+    second: teleporter_hit_36
+  - first:
+      213: -9214589051417023160
+    second: teleporter_hit_37
+  - first:
+      213: -5357920140966873999
+    second: teleporter_hit_38
+  - first:
+      213: 9042094808142431129
+    second: teleporter_hit_39
+  - first:
+      213: -3832239627877588296
+    second: teleporter_hit_40
+  - first:
+      213: -5223270586476363546
+    second: teleporter_hit_41
+  - first:
+      213: 8294006832996836739
+    second: teleporter_hit_42
+  - first:
+      213: 4556157421832061984
+    second: teleporter_hit_43
+  - first:
+      213: -1374603384364409316
+    second: teleporter_hit_44
+  - first:
+      213: 7462573875528610099
+    second: teleporter_hit_45
+  - first:
+      213: 929297189439823591
+    second: teleporter_hit_46
+  - first:
+      213: -675058458012634778
+    second: teleporter_hit_47
+  - first:
+      213: -4558789786164432552
+    second: teleporter_hit_48
+  - first:
+      213: -8162633588473529515
+    second: teleporter_hit_49
+  - first:
+      213: -6071632554500787726
+    second: teleporter_hit_50
+  - first:
+      213: 8232642552362159735
+    second: teleporter_hit_51
+  - first:
+      213: 1237441813389344283
+    second: teleporter_hit_52
+  - first:
+      213: -5174952715875702018
+    second: teleporter_hit_53
+  - first:
+      213: -1175373554896754783
+    second: teleporter_hit_54
+  - first:
+      213: 6184331238300603244
+    second: teleporter_hit_55
+  - first:
+      213: -487962768333382551
+    second: teleporter_hit_56
+  - first:
+      213: -3216728586827529890
+    second: teleporter_hit_57
+  - first:
+      213: -1041625449867825294
+    second: teleporter_hit_58
+  - first:
+      213: -1661958507451389141
+    second: teleporter_hit_59
+  - first:
+      213: -1289215526611874493
+    second: teleporter_hit_60
+  - first:
+      213: -6469187434408188135
+    second: teleporter_hit_61
+  - first:
+      213: -6601391710860289188
+    second: teleporter_hit_62
+  - first:
+      213: 2583710767948995199
+    second: teleporter_hit_63
+  - first:
+      213: 160025509735275812
+    second: teleporter_hit_64
+  - first:
+      213: 7294651398855970417
+    second: teleporter_hit_65
+  - first:
+      213: 664930447227764119
+    second: teleporter_hit_66
+  - first:
+      213: 789675894428564005
+    second: teleporter_hit_67
+  - first:
+      213: -6240845838093942295
+    second: teleporter_hit_68
+  - first:
+      213: -5373766259248228666
+    second: teleporter_hit_69
+  - first:
+      213: -5067302153495314141
+    second: teleporter_hit_70
+  - first:
+      213: -268724330085444096
+    second: teleporter_hit_71
+  - first:
+      213: -561612130305865889
+    second: teleporter_hit_72
+  - first:
+      213: 5039600519321253549
+    second: teleporter_hit_73
+  - first:
+      213: -2608261405773569909
+    second: teleporter_hit_74
+  - first:
+      213: -8465030948014912774
+    second: teleporter_hit_75
+  - first:
+      213: -801333354460901036
+    second: teleporter_hit_76
+  - first:
+      213: -5823643184657703720
+    second: teleporter_hit_77
+  - first:
+      213: -1930368424358304108
+    second: teleporter_hit_78
+  - first:
+      213: -1394423206910366376
+    second: teleporter_hit_79
+  - first:
+      213: -8931464688870106039
+    second: teleporter_hit_80
+  - first:
+      213: 5469207410509960969
+    second: teleporter_hit_81
+  - first:
+      213: 2497262215302147490
+    second: teleporter_hit_82
+  - first:
+      213: -1446067368312473917
+    second: teleporter_hit_83
+  - first:
+      213: -1406424360486864317
+    second: teleporter_hit_84
+  - first:
+      213: -3651973227706986502
+    second: teleporter_hit_85
+  - first:
+      213: 500011121259295566
+    second: teleporter_hit_86
+  - first:
+      213: -95329246108315024
+    second: teleporter_hit_87
+  - first:
+      213: -4407921874755638388
+    second: teleporter_hit_88
+  - first:
+      213: 1802222212698992594
+    second: teleporter_hit_89
+  - first:
+      213: 483739305840702427
+    second: teleporter_hit_90
+  - first:
+      213: -3452142718856948919
+    second: teleporter_hit_91
+  - first:
+      213: 2781461320721490996
+    second: teleporter_hit_92
+  - first:
+      213: -116366895855782083
+    second: teleporter_hit_93
+  - first:
+      213: -3840812918949028774
+    second: teleporter_hit_94
+  - first:
+      213: 2883576580487983304
+    second: teleporter_hit_95
+  - first:
+      213: 8619449342846379722
+    second: teleporter_hit_96
+  - first:
+      213: -3594647443382026520
+    second: teleporter_hit_97
+  - first:
+      213: -3819638474172077788
+    second: teleporter_hit_98
+  - first:
+      213: -5588937365304040378
+    second: teleporter_hit_99
+  - first:
+      213: 6406169905750747040
+    second: teleporter_hit_100
+  - first:
+      213: -2326805124395063612
+    second: teleporter_hit_101
+  - first:
+      213: 5825277037787930022
+    second: teleporter_hit_102
+  - first:
+      213: -1186828988971680973
+    second: teleporter_hit_103
+  - first:
+      213: 4557190767031265912
+    second: teleporter_hit_104
+  - first:
+      213: 3771750647441642757
+    second: teleporter_hit_105
+  - first:
+      213: -5001078540084355102
+    second: teleporter_hit_106
+  - first:
+      213: -9102219641653333524
+    second: teleporter_hit_107
+  - first:
+      213: 4027477608987143712
+    second: teleporter_hit_108
+  - first:
+      213: 8099487515353472296
+    second: teleporter_hit_109
+  - first:
+      213: -7830239367982603112
+    second: teleporter_hit_110
+  - first:
+      213: 5804776060608918299
+    second: teleporter_hit_111
+  - first:
+      213: -1660130231964562518
+    second: teleporter_hit_112
+  - first:
+      213: 6276234670370482419
+    second: teleporter_hit_113
+  - first:
+      213: 8615961955475371569
+    second: teleporter_hit_114
+  - first:
+      213: 2097335034501211703
+    second: teleporter_hit_115
+  - first:
+      213: 8670487545127230386
+    second: teleporter_hit_116
+  - first:
+      213: -2213471728332212300
+    second: teleporter_hit_117
+  - first:
+      213: 4547625141629741254
+    second: teleporter_hit_118
+  - first:
+      213: 1552421485244854858
+    second: teleporter_hit_119
+  - first:
+      213: -2293830756379263712
+    second: teleporter_hit_120
+  - first:
+      213: 7809036952235261461
+    second: teleporter_hit_121
+  - first:
+      213: -410711384109885773
+    second: teleporter_hit_122
+  - first:
+      213: 4995278386233576603
+    second: teleporter_hit_123
+  - first:
+      213: -4798381309779958183
+    second: teleporter_hit_124
+  - first:
+      213: 8495068356770117193
+    second: teleporter_hit_125
+  - first:
+      213: -2033896228385645011
+    second: teleporter_hit_126
+  - first:
+      213: 2629896824302456325
+    second: teleporter_hit_127
+  - first:
+      213: -1316106528523295420
+    second: teleporter_hit_128
+  - first:
+      213: -8135450991921292707
+    second: teleporter_hit_129
+  - first:
+      213: -8906800980357861288
+    second: teleporter_hit_130
+  - first:
+      213: 6019232560149438358
+    second: teleporter_hit_131
+  - first:
+      213: -4844879814789936734
+    second: teleporter_hit_132
+  - first:
+      213: 674056509590332653
+    second: teleporter_hit_133
+  - first:
+      213: -2519824575472912140
+    second: teleporter_hit_134
+  - first:
+      213: 4894853551661964337
+    second: teleporter_hit_135
+  - first:
+      213: 8859436123056750607
+    second: teleporter_hit_136
+  - first:
+      213: -1368250456776917621
+    second: teleporter_hit_137
+  - first:
+      213: -9060864839604022323
+    second: teleporter_hit_138
+  - first:
+      213: 4946715504631470969
+    second: teleporter_hit_139
+  - first:
+      213: 5289774955920869705
+    second: teleporter_hit_140
+  - first:
+      213: 5189050845807202115
+    second: teleporter_hit_141
+  - first:
+      213: 2630354958137048798
+    second: teleporter_hit_142
+  - first:
+      213: -8126296736102230120
+    second: teleporter_hit_143
+  - first:
+      213: 2537823165875925290
+    second: teleporter_hit_144
+  - first:
+      213: -7477196016584962384
+    second: teleporter_hit_145
+  - first:
+      213: 6835030491658949768
+    second: teleporter_hit_146
+  - first:
+      213: -6905770887783468993
+    second: teleporter_hit_147
+  - first:
+      213: -2223660617697901216
+    second: teleporter_hit_148
+  - first:
+      213: -7894364793043715229
+    second: teleporter_hit_149
+  - first:
+      213: -2594008028732627120
+    second: teleporter_hit_150
+  - first:
+      213: 8955915049082834178
+    second: teleporter_hit_151
+  - first:
+      213: 3773061546702756522
+    second: teleporter_hit_152
+  - first:
+      213: 851401791406710184
+    second: teleporter_hit_153
+  - first:
+      213: 1837614239513381073
+    second: teleporter_hit_154
+  - first:
+      213: -3425246431389314410
+    second: teleporter_hit_155
+  - first:
+      213: 2118603965357732109
+    second: teleporter_hit_156
+  - first:
+      213: 3179547805360117757
+    second: teleporter_hit_157
+  - first:
+      213: -2874823096057964009
+    second: teleporter_hit_158
+  - first:
+      213: -6307392840494188320
+    second: teleporter_hit_159
+  - first:
+      213: 8678981508988323856
+    second: teleporter_hit_160
+  - first:
+      213: -6858530207816938121
+    second: teleporter_hit_161
+  - first:
+      213: -8645876443056980553
+    second: teleporter_hit_162
+  - first:
+      213: 430020901593726169
+    second: teleporter_hit_163
+  - first:
+      213: 2216418638784422494
+    second: teleporter_hit_164
+  - first:
+      213: 5135199936544507316
+    second: teleporter_hit_165
+  - first:
+      213: 2250328972411208111
+    second: teleporter_hit_166
+  - first:
+      213: -2596168331774863631
+    second: teleporter_hit_167
+  - first:
+      213: -2585440556440587750
+    second: teleporter_hit_168
+  - first:
+      213: -4791427106947821036
+    second: teleporter_hit_169
+  - first:
+      213: -3458857119558924551
+    second: teleporter_hit_170
+  - first:
+      213: 8874811960776663540
+    second: teleporter_hit_171
+  - first:
+      213: 6982652123090746186
+    second: teleporter_hit_172
+  - first:
+      213: 2210899093542530744
+    second: teleporter_hit_173
+  - first:
+      213: 3203471765205837525
+    second: teleporter_hit_174
+  - first:
+      213: -2893285982247832848
+    second: teleporter_hit_175
+  - first:
+      213: 5818059010588219809
+    second: teleporter_hit_176
+  - first:
+      213: 6384071634582571274
+    second: teleporter_hit_177
+  - first:
+      213: -2918300301598249033
+    second: teleporter_hit_178
+  - first:
+      213: -2332230416074346465
+    second: teleporter_hit_179
+  - first:
+      213: -2288753670229005543
+    second: teleporter_hit_180
+  - first:
+      213: 2299659570457573131
+    second: teleporter_hit_181
+  - first:
+      213: -3603008982564921602
+    second: teleporter_hit_182
+  - first:
+      213: -1542910613841056548
+    second: teleporter_hit_183
+  - first:
+      213: 7144003521933692901
+    second: teleporter_hit_184
+  - first:
+      213: 8278106779206207424
+    second: teleporter_hit_185
+  - first:
+      213: -8127698971110189293
+    second: teleporter_hit_186
+  - first:
+      213: -5517830472887193332
+    second: teleporter_hit_187
+  - first:
+      213: 8161905576805750767
+    second: teleporter_hit_188
+  - first:
+      213: 5284216166869101139
+    second: teleporter_hit_189
+  - first:
+      213: -7024942781753496961
+    second: teleporter_hit_190
+  - first:
+      213: -1979481574561211331
+    second: teleporter_hit_191
+  - first:
+      213: -7536342502456300275
+    second: teleporter_hit_192
+  - first:
+      213: 3842138362761244877
+    second: teleporter_hit_193
+  - first:
+      213: 641305273334233175
+    second: teleporter_hit_194
+  - first:
+      213: 5306375614304557682
+    second: teleporter_hit_195
+  - first:
+      213: 6725706461348606035
+    second: teleporter_hit_196
+  - first:
+      213: -3492704471900133827
+    second: teleporter_hit_197
+  - first:
+      213: -4388289613726162442
+    second: teleporter_hit_198
+  - first:
+      213: 6077336776513673909
+    second: teleporter_hit_199
+  - first:
+      213: -451963376836061986
+    second: teleporter_hit_200
+  - first:
+      213: 6554652847834621614
+    second: teleporter_hit_201
+  - first:
+      213: -3927861951594724475
+    second: teleporter_hit_202
+  - first:
+      213: 5328586597399288939
+    second: teleporter_hit_203
+  - first:
+      213: -8449956227776138042
+    second: teleporter_hit_204
+  - first:
+      213: -319975092023377116
+    second: teleporter_hit_205
+  - first:
+      213: 8827825756589339834
+    second: teleporter_hit_206
+  - first:
+      213: -7746305207192311459
+    second: teleporter_hit_207
+  - first:
+      213: -8682326172466497435
+    second: teleporter_hit_208
+  - first:
+      213: 4366739013061148771
+    second: teleporter_hit_209
+  - first:
+      213: 5073646337567147618
+    second: teleporter_hit_210
+  - first:
+      213: -5786348733984955281
+    second: teleporter_hit_211
+  - first:
+      213: 5773172997569815420
+    second: teleporter_hit_212
+  - first:
+      213: -6578952165569304380
+    second: teleporter_hit_213
+  - first:
+      213: -8823201312656744726
+    second: teleporter_hit_214
+  - first:
+      213: -7080036204153607425
+    second: teleporter_hit_215
+  - first:
+      213: 2743739285718780617
+    second: teleporter_hit_216
+  - first:
+      213: 6053917353016864156
+    second: teleporter_hit_217
+  - first:
+      213: 1947628494821746015
+    second: teleporter_hit_218
+  - first:
+      213: 4327797698351900765
+    second: teleporter_hit_219
+  - first:
+      213: 34952398759206843
+    second: teleporter_hit_220
+  - first:
+      213: 2103756421860789978
+    second: teleporter_hit_221
+  - first:
+      213: 7669384537763996807
+    second: teleporter_hit_222
+  - first:
+      213: -4989900814007662948
+    second: teleporter_hit_223
+  - first:
+      213: 742183119042447096
+    second: teleporter_hit_224
+  - first:
+      213: -8438123183974714714
+    second: teleporter_hit_225
+  - first:
+      213: 2611343338632070328
+    second: teleporter_hit_226
+  - first:
+      213: 6539947172025220441
+    second: teleporter_hit_227
+  - first:
+      213: 935037502602023088
+    second: teleporter_hit_228
+  - first:
+      213: -2342841786627976757
+    second: teleporter_hit_229
+  - first:
+      213: -5237781882485702065
+    second: teleporter_hit_230
+  - first:
+      213: -6335887700585210214
+    second: teleporter_hit_231
+  - first:
+      213: -5214502580053210638
+    second: teleporter_hit_232
+  - first:
+      213: 2614492047512851684
+    second: teleporter_hit_233
+  - first:
+      213: 3764864281110898369
+    second: teleporter_hit_234
+  - first:
+      213: 8737401744919502517
+    second: teleporter_hit_235
+  - first:
+      213: -3761568132709706252
+    second: teleporter_hit_236
+  - first:
+      213: 1538982343646089243
+    second: teleporter_hit_237
+  - first:
+      213: -8589873326108290143
+    second: teleporter_hit_238
+  - first:
+      213: 6663727294388961561
+    second: teleporter_hit_239
+  - first:
+      213: -4680867364349304524
+    second: teleporter_hit_240
+  - first:
+      213: 7537321463056239097
+    second: teleporter_hit_241
+  - first:
+      213: -4291127016448794263
+    second: teleporter_hit_242
+  - first:
+      213: -923634468552777631
+    second: teleporter_hit_243
+  - first:
+      213: -6237282164525275432
+    second: teleporter_hit_244
+  - first:
+      213: 365901676189083540
+    second: teleporter_hit_245
+  - first:
+      213: 4436889345639722903
+    second: teleporter_hit_246
+  - first:
+      213: 8040057909347049807
+    second: teleporter_hit_247
+  - first:
+      213: 2695879453074988665
+    second: teleporter_hit_248
+  - first:
+      213: 7218898847975398588
+    second: teleporter_hit_249
+  - first:
+      213: -3852212805766787265
+    second: teleporter_hit_250
+  - first:
+      213: 4750438322775442911
+    second: teleporter_hit_251
+  - first:
+      213: -2607443402427429824
+    second: teleporter_hit_252
+  - first:
+      213: 4150035646383335877
+    second: teleporter_hit_253
+  - first:
+      213: 5716781757171774564
+    second: teleporter_hit_254
+  - first:
+      213: -3208542668870664146
+    second: teleporter_hit_255
+  - first:
+      213: -6705210383792804616
+    second: teleporter_hit_256
+  - first:
+      213: 1144221075868499849
+    second: teleporter_hit_257
+  - first:
+      213: 2048579059526346822
+    second: teleporter_hit_258
+  - first:
+      213: -6876719112380535545
+    second: teleporter_hit_259
+  - first:
+      213: -6336286060992409799
+    second: teleporter_hit_260
+  - first:
+      213: 633949793050583547
+    second: teleporter_hit_261
+  - first:
+      213: -4342364167608741629
+    second: teleporter_hit_262
+  - first:
+      213: -2049959365428001264
+    second: teleporter_hit_263
+  - first:
+      213: 6164703070194077084
+    second: teleporter_hit_264
+  - first:
+      213: -9088934354986408181
+    second: teleporter_hit_265
+  - first:
+      213: 2064260093078079643
+    second: teleporter_hit_266
+  - first:
+      213: -700730583506488498
+    second: teleporter_hit_267
+  - first:
+      213: -3622526759254392252
+    second: teleporter_hit_268
+  - first:
+      213: -1563252305940271831
+    second: teleporter_hit_269
+  - first:
+      213: -5632768356422430841
+    second: teleporter_hit_270
+  - first:
+      213: 8460603970507589031
+    second: teleporter_hit_271
+  - first:
+      213: -1314063146208411516
+    second: teleporter_hit_272
+  - first:
+      213: -3536627374262573067
+    second: teleporter_hit_273
+  - first:
+      213: 5104125624648394667
+    second: teleporter_hit_274
+  - first:
+      213: -3591273840904458261
+    second: teleporter_hit_275
+  - first:
+      213: 6747346168915071171
+    second: teleporter_hit_276
+  - first:
+      213: 601181128967897602
+    second: teleporter_hit_277
+  - first:
+      213: -4870056866585051363
+    second: teleporter_hit_278
+  - first:
+      213: -3688713171512253452
+    second: teleporter_hit_279
+  - first:
+      213: -8808052860086518394
+    second: teleporter_hit_280
+  - first:
+      213: -7641780258353636374
+    second: teleporter_hit_281
+  - first:
+      213: 9098086975543051730
+    second: teleporter_hit_282
+  - first:
+      213: 1501325588524714893
+    second: teleporter_hit_283
+  - first:
+      213: 5415438765488662317
+    second: teleporter_hit_284
+  - first:
+      213: -8261001909258582569
+    second: teleporter_hit_285
+  - first:
+      213: -7893730848128377211
+    second: teleporter_hit_286
+  - first:
+      213: -5054794138584408649
+    second: teleporter_hit_287
+  - first:
+      213: -6503242205587781249
+    second: teleporter_hit_288
+  - first:
+      213: 2428319053171615026
+    second: teleporter_hit_289
+  - first:
+      213: 8922722905148587165
+    second: teleporter_hit_290
+  - first:
+      213: 3737098610294460219
+    second: teleporter_hit_291
+  - first:
+      213: -5969869902112709638
+    second: teleporter_hit_292
+  - first:
+      213: -2820303899716174636
+    second: teleporter_hit_293
+  - first:
+      213: -6035411890377178806
+    second: teleporter_hit_294
+  - first:
+      213: -1566262627941108136
+    second: teleporter_hit_295
+  - first:
+      213: 4479264011373607826
+    second: teleporter_hit_296
+  - first:
+      213: 4306980572251918238
+    second: teleporter_hit_297
+  - first:
+      213: 6315603945223544001
+    second: teleporter_hit_298
+  - first:
+      213: -4094096458396991012
+    second: teleporter_hit_299
+  - first:
+      213: -3291150966731457288
+    second: teleporter_hit_300
+  - first:
+      213: 4194472018783534858
+    second: teleporter_hit_301
+  - first:
+      213: -3509630385893431113
+    second: teleporter_hit_302
+  - first:
+      213: 4638097055876793958
+    second: teleporter_hit_303
+  - first:
+      213: -2448708454153601002
+    second: teleporter_hit_304
+  - first:
+      213: 3369726572908134973
+    second: teleporter_hit_305
+  - first:
+      213: 475456077696913092
+    second: teleporter_hit_306
+  - first:
+      213: 1967521675871003860
+    second: teleporter_hit_307
+  - first:
+      213: 3560026303536314203
+    second: teleporter_hit_308
+  - first:
+      213: 1065044897755443785
+    second: teleporter_hit_309
+  - first:
+      213: -7212752550135913652
+    second: teleporter_hit_310
+  - first:
+      213: 1972310171060358777
+    second: teleporter_hit_311
+  - first:
+      213: 6532271954775761421
+    second: teleporter_hit_312
+  - first:
+      213: -2839870645644558366
+    second: teleporter_hit_313
+  - first:
+      213: -4532545238628278098
+    second: teleporter_hit_314
+  - first:
+      213: 6981164067450539825
+    second: teleporter_hit_315
+  - first:
+      213: 6786637321462755785
+    second: teleporter_hit_316
+  - first:
+      213: -6284701141228896183
+    second: teleporter_hit_317
+  - first:
+      213: -3198047245432610964
+    second: teleporter_hit_318
+  - first:
+      213: -2029226814793800403
+    second: teleporter_hit_319
+  - first:
+      213: -5278479265165612670
+    second: teleporter_hit_320
+  - first:
+      213: 802839447664938534
+    second: teleporter_hit_321
+  - first:
+      213: -8229575404725739173
+    second: teleporter_hit_322
+  - first:
+      213: -4098602341127670204
+    second: teleporter_hit_323
+  - first:
+      213: -3938927849091370216
+    second: teleporter_hit_324
+  - first:
+      213: -2891464074412634041
+    second: teleporter_hit_325
+  - first:
+      213: 4040813585711389539
+    second: teleporter_hit_326
+  - first:
+      213: -5844105596277288267
+    second: teleporter_hit_327
+  - first:
+      213: -1053661800361918249
+    second: teleporter_hit_328
+  - first:
+      213: 7624456490606391787
+    second: teleporter_hit_329
+  - first:
+      213: 9202389463593285945
+    second: teleporter_hit_330
+  - first:
+      213: 2702541497853735810
+    second: teleporter_hit_331
+  - first:
+      213: -950090452820107056
+    second: teleporter_hit_332
+  - first:
+      213: 5900985648757356219
+    second: teleporter_hit_333
+  - first:
+      213: -2597262709819310190
+    second: teleporter_hit_334
+  - first:
+      213: -1941261344050240360
+    second: teleporter_hit_335
+  - first:
+      213: 146403358150566613
+    second: teleporter_hit_336
+  - first:
+      213: 4796615451190598914
+    second: teleporter_hit_337
+  - first:
+      213: -5370044319949837614
+    second: teleporter_hit_338
+  - first:
+      213: -7032989316722886413
+    second: teleporter_hit_339
+  - first:
+      213: 6800898359676531171
+    second: teleporter_hit_340
+  - first:
+      213: -3420366909634375511
+    second: teleporter_hit_341
+  - first:
+      213: -6097939542436709395
+    second: teleporter_hit_342
+  - first:
+      213: 6156287881525793273
+    second: teleporter_hit_343
+  - first:
+      213: 1834305650241998406
+    second: teleporter_hit_344
+  - first:
+      213: -4459983247204884475
+    second: teleporter_hit_345
+  - first:
+      213: -4658211711384736675
+    second: teleporter_hit_346
+  - first:
+      213: 547346570210722180
+    second: teleporter_hit_347
+  - first:
+      213: 2843962499124511577
+    second: teleporter_hit_348
+  - first:
+      213: 5814352099093196642
+    second: teleporter_hit_349
+  - first:
+      213: 9024646367810959182
+    second: teleporter_hit_350
+  - first:
+      213: -7210760578269008817
+    second: teleporter_hit_351
+  - first:
+      213: -1455428452440481224
+    second: teleporter_hit_352
+  - first:
+      213: -6969827732232127168
+    second: teleporter_hit_353
+  - first:
+      213: 4980247997390028181
+    second: teleporter_hit_354
+  - first:
+      213: -4331975497602598787
+    second: teleporter_hit_355
+  - first:
+      213: -2766085917300608048
+    second: teleporter_hit_356
+  - first:
+      213: -2446437613940076703
+    second: teleporter_hit_357
+  - first:
+      213: 3083750550390453428
+    second: teleporter_hit_358
+  - first:
+      213: 185116816979357842
+    second: teleporter_hit_359
+  - first:
+      213: -7377258850000739089
+    second: teleporter_hit_360
+  - first:
+      213: 6734854430232333259
+    second: teleporter_hit_361
+  - first:
+      213: -8087405746344086858
+    second: teleporter_hit_362
+  - first:
+      213: -3975278039675336457
+    second: teleporter_hit_363
+  - first:
+      213: 1280281003172290131
+    second: teleporter_hit_364
+  - first:
+      213: -4154659626664594850
+    second: teleporter_hit_365
+  - first:
+      213: 7739471675212399070
+    second: teleporter_hit_366
+  - first:
+      213: -8421725949268918094
+    second: teleporter_hit_367
+  - first:
+      213: 4323669432026348022
+    second: teleporter_hit_368
+  - first:
+      213: -3650373354883709894
+    second: teleporter_hit_369
+  - first:
+      213: -373832955470013760
+    second: teleporter_hit_370
+  - first:
+      213: 8722112989264653428
+    second: teleporter_hit_371
+  - first:
+      213: -5871769507350740660
+    second: teleporter_hit_372
+  - first:
+      213: 7652661832707842570
+    second: teleporter_hit_373
+  - first:
+      213: 1074202147941623516
+    second: teleporter_hit_374
+  - first:
+      213: -8326131140815613841
+    second: teleporter_hit_375
+  - first:
+      213: -3592729257543073358
+    second: teleporter_hit_376
+  - first:
+      213: -3759758476329196456
+    second: teleporter_hit_377
+  - first:
+      213: -2908661163815186451
+    second: teleporter_hit_378
+  - first:
+      213: -5064570399957965113
+    second: teleporter_hit_379
+  - first:
+      213: 7039407157840610477
+    second: teleporter_hit_380
+  - first:
+      213: -2869135013283484189
+    second: teleporter_hit_381
+  - first:
+      213: 1101441250153417676
+    second: teleporter_hit_382
+  - first:
+      213: 6356087754450439488
+    second: teleporter_hit_383
+  - first:
+      213: -3954906801527968717
+    second: teleporter_hit_384
+  - first:
+      213: 7525465340068653600
+    second: teleporter_hit_385
+  - first:
+      213: -54071354132500788
+    second: teleporter_hit_386
+  - first:
+      213: -4590426544732391666
+    second: teleporter_hit_387
+  - first:
+      213: 5998376027619526497
+    second: teleporter_hit_388
+  - first:
+      213: 7481933767361955193
+    second: teleporter_hit_389
+  - first:
+      213: 4988177446165666832
+    second: teleporter_hit_390
+  - first:
+      213: 924415915094416775
+    second: teleporter_hit_391
+  - first:
+      213: -3992357180455980925
+    second: teleporter_hit_392
+  - first:
+      213: -2345929452570813772
+    second: teleporter_hit_393
+  - first:
+      213: 2392601358831887746
+    second: teleporter_hit_394
+  - first:
+      213: -1283620884985398005
+    second: teleporter_hit_395
+  - first:
+      213: 6098467591164763701
+    second: teleporter_hit_396
+  - first:
+      213: 892395690773926302
+    second: teleporter_hit_397
+  - first:
+      213: 4554457588724129738
+    second: teleporter_hit_398
+  - first:
+      213: 6377609620650643136
+    second: teleporter_hit_399
+  - first:
+      213: 8802780244688956361
+    second: teleporter_hit_400
+  - first:
+      213: 3797851180621537106
+    second: teleporter_hit_401
+  - first:
+      213: -1468406564546202587
+    second: teleporter_hit_402
+  - first:
+      213: 7729598479284927574
+    second: teleporter_hit_403
+  - first:
+      213: -6306050631179900145
+    second: teleporter_hit_404
+  - first:
+      213: 7536609437958367236
+    second: teleporter_hit_405
+  - first:
+      213: 994092439862083877
+    second: teleporter_hit_406
+  - first:
+      213: 7427587907757198851
+    second: teleporter_hit_407
+  - first:
+      213: 8724793678148114773
+    second: teleporter_hit_408
+  - first:
+      213: -8020445149653807532
+    second: teleporter_hit_409
+  - first:
+      213: 5202212201828155844
+    second: teleporter_hit_410
+  - first:
+      213: 6838019967668983562
+    second: teleporter_hit_411
+  - first:
+      213: -6787255699238114063
+    second: teleporter_hit_412
+  - first:
+      213: 8203494416715708050
+    second: teleporter_hit_413
+  - first:
+      213: 2714652437697962875
+    second: teleporter_hit_414
+  - first:
+      213: -400812227536922068
+    second: teleporter_hit_415
+  - first:
+      213: -8439404406702825479
+    second: teleporter_hit_416
+  - first:
+      213: -1649876910052363459
+    second: teleporter_hit_417
+  - first:
+      213: 5840483640000165624
+    second: teleporter_hit_418
+  - first:
+      213: -1631334702218285867
+    second: teleporter_hit_419
+  - first:
+      213: 5628129403167576736
+    second: teleporter_hit_420
+  - first:
+      213: -5029543013616285634
+    second: teleporter_hit_421
+  - first:
+      213: -3165981055012113564
+    second: teleporter_hit_422
+  - first:
+      213: 1561622233932289514
+    second: teleporter_hit_423
+  - first:
+      213: -5286238246228702371
+    second: teleporter_hit_424
+  - first:
+      213: 5608180125856426518
+    second: teleporter_hit_425
+  - first:
+      213: -9007290907162567829
+    second: teleporter_hit_426
+  - first:
+      213: -125822694980435120
+    second: teleporter_hit_427
+  - first:
+      213: -498694734349758415
+    second: teleporter_hit_428
+  - first:
+      213: -8232661965790583684
+    second: teleporter_hit_429
+  - first:
+      213: 7412137118315154276
+    second: teleporter_hit_430
+  - first:
+      213: 2216422539366991780
+    second: teleporter_hit_431
+  - first:
+      213: 4308280963653728056
+    second: teleporter_hit_432
+  - first:
+      213: 7913676798577394799
+    second: teleporter_hit_433
+  - first:
+      213: 1677123047827229900
+    second: teleporter_hit_434
+  - first:
+      213: -6727396936655121426
+    second: teleporter_hit_435
+  - first:
+      213: 5337190739013530428
+    second: teleporter_hit_436
+  - first:
+      213: 154835648699885293
+    second: teleporter_hit_437
+  - first:
+      213: 336916099456030078
+    second: teleporter_hit_438
+  - first:
+      213: -3464262319339829434
+    second: teleporter_hit_439
+  - first:
+      213: 1974006763626697681
+    second: teleporter_hit_440
+  - first:
+      213: 6207131251188756116
+    second: teleporter_hit_441
+  - first:
+      213: 7038453183867337995
+    second: teleporter_hit_442
+  - first:
+      213: -8599586330334175975
+    second: teleporter_hit_443
+  - first:
+      213: 5374255876092781392
+    second: teleporter_hit_444
+  - first:
+      213: -731293562463192029
+    second: teleporter_hit_445
+  - first:
+      213: 6046086256921452219
+    second: teleporter_hit_446
+  - first:
+      213: 3602733326462560540
+    second: teleporter_hit_447
+  - first:
+      213: 4311356323535462973
+    second: teleporter_hit_448
+  - first:
+      213: 8508377476677054079
+    second: teleporter_hit_449
+  - first:
+      213: -7501295208568527265
+    second: teleporter_hit_450
+  - first:
+      213: -8366484476013026414
+    second: teleporter_hit_451
+  - first:
+      213: 9007075281711010520
+    second: teleporter_hit_452
+  - first:
+      213: -74164645153259046
+    second: teleporter_hit_453
+  - first:
+      213: 5771283991604912386
+    second: teleporter_hit_454
+  - first:
+      213: -1443297337506194956
+    second: teleporter_hit_455
+  - first:
+      213: 379068548856892711
+    second: teleporter_hit_456
+  - first:
+      213: 5239699485306497697
+    second: teleporter_hit_457
+  - first:
+      213: 4350730531147914774
+    second: teleporter_hit_458
+  - first:
+      213: -5848067977403852556
+    second: teleporter_hit_459
+  - first:
+      213: 5795184314993534254
+    second: teleporter_hit_460
+  - first:
+      213: -5977224766748521367
+    second: teleporter_hit_461
+  - first:
+      213: -2212760876561052428
+    second: teleporter_hit_462
+  - first:
+      213: 4802367172959393854
+    second: teleporter_hit_463
+  - first:
+      213: -7287747083758305350
+    second: teleporter_hit_464
+  - first:
+      213: -4496384746269973240
+    second: teleporter_hit_465
+  - first:
+      213: 7442367415941465481
+    second: teleporter_hit_466
+  - first:
+      213: -4548860182203038596
+    second: teleporter_hit_467
+  - first:
+      213: -1089919521934512852
+    second: teleporter_hit_468
+  - first:
+      213: 6300673253651331339
+    second: teleporter_hit_469
+  - first:
+      213: 7680450177437847987
+    second: teleporter_hit_470
+  - first:
+      213: 8306377766208866527
+    second: teleporter_hit_471
+  - first:
+      213: -6269798891203941031
+    second: teleporter_hit_472
+  - first:
+      213: 5902419817906975439
+    second: teleporter_hit_473
+  - first:
+      213: 4196725382430282019
+    second: teleporter_hit_474
+  - first:
+      213: -6352918753110833842
+    second: teleporter_hit_475
+  - first:
+      213: -6127356669933381759
+    second: teleporter_hit_476
+  - first:
+      213: 3656707808931095007
+    second: teleporter_hit_477
+  - first:
+      213: -7693578017437917493
+    second: teleporter_hit_478
+  - first:
+      213: 5176012626505154920
+    second: teleporter_hit_479
+  - first:
+      213: 6736842842639113772
+    second: teleporter_hit_480
+  - first:
+      213: -6788635869669391928
+    second: teleporter_hit_481
+  - first:
+      213: -9057742945591153004
+    second: teleporter_hit_482
+  - first:
+      213: -3701271467042429334
+    second: teleporter_hit_483
+  - first:
+      213: 2746377755812547453
+    second: teleporter_hit_484
+  - first:
+      213: -4415824005162125776
+    second: teleporter_hit_485
+  - first:
+      213: 6506076342198322321
+    second: teleporter_hit_486
+  - first:
+      213: -8830867909196456199
+    second: teleporter_hit_487
+  - first:
+      213: 6236678924291526281
+    second: teleporter_hit_488
+  - first:
+      213: -6503333977040319475
+    second: teleporter_hit_489
+  - first:
+      213: 6655237077050133957
+    second: teleporter_hit_490
+  - first:
+      213: 4500799018802359598
+    second: teleporter_hit_491
+  - first:
+      213: -2166725239056754353
+    second: teleporter_hit_492
+  - first:
+      213: -1271914629807980788
+    second: teleporter_hit_493
+  - first:
+      213: 5999352585020312960
+    second: teleporter_hit_494
+  - first:
+      213: 6995041417067782853
+    second: teleporter_hit_495
+  - first:
+      213: -1392874192900323803
+    second: teleporter_hit_496
+  - first:
+      213: 182382946329877978
+    second: teleporter_hit_497
+  - first:
+      213: -5976377959700671690
+    second: teleporter_hit_498
+  - first:
+      213: -7630829120254266191
+    second: teleporter_hit_499
+  - first:
+      213: 211128788874143115
+    second: teleporter_hit_500
+  - first:
+      213: -322247519977411742
+    second: teleporter_hit_501
+  - first:
+      213: 1495007733541721513
+    second: teleporter_hit_502
+  - first:
+      213: -6728144390123621808
+    second: teleporter_hit_503
+  - first:
+      213: 3925418607366412863
+    second: teleporter_hit_504
+  - first:
+      213: 9124796332696224621
+    second: teleporter_hit_505
+  - first:
+      213: -2052347811754808939
+    second: teleporter_hit_506
+  - first:
+      213: 2015063762001198022
+    second: teleporter_hit_507
+  - first:
+      213: 2623268199885492578
+    second: teleporter_hit_508
+  - first:
+      213: 6578374015797883103
+    second: teleporter_hit_509
+  - first:
+      213: 1317230757713485017
+    second: teleporter_hit_510
+  - first:
+      213: -8762484005814614116
+    second: teleporter_hit_511
+  - first:
+      213: 1364735693203504827
+    second: teleporter_hit_512
+  - first:
+      213: 6805175360550273874
+    second: teleporter_hit_513
+  - first:
+      213: 7945374568046393911
+    second: teleporter_hit_514
+  - first:
+      213: 8921410237918237752
+    second: teleporter_hit_515
+  - first:
+      213: 2728459750854046942
+    second: teleporter_hit_516
+  - first:
+      213: 152675172272211783
+    second: teleporter_hit_517
+  - first:
+      213: 5346914127590966637
+    second: teleporter_hit_518
+  - first:
+      213: 8896344103294588372
+    second: teleporter_hit_519
+  - first:
+      213: -9117632070343701353
+    second: teleporter_hit_520
+  - first:
+      213: 8195644278983488927
+    second: teleporter_hit_521
+  - first:
+      213: 380185114564140636
+    second: teleporter_hit_522
+  - first:
+      213: 2047163042068668968
+    second: teleporter_hit_523
+  - first:
+      213: -2928781711035037674
+    second: teleporter_hit_524
+  - first:
+      213: 253056523709458602
+    second: teleporter_hit_525
+  - first:
+      213: -6118651961129210054
+    second: teleporter_hit_526
+  - first:
+      213: -4236926751486400462
+    second: teleporter_hit_527
+  - first:
+      213: 2662374005273535896
+    second: teleporter_hit_528
+  - first:
+      213: 2411704779372139476
+    second: teleporter_hit_529
+  - first:
+      213: 5301683179568707242
+    second: teleporter_hit_530
+  - first:
+      213: 1777569242911182443
+    second: teleporter_hit_531
+  - first:
+      213: 8716543441280153065
+    second: teleporter_hit_532
+  - first:
+      213: -7864263448054673545
+    second: teleporter_hit_533
+  - first:
+      213: -5752494629216078804
+    second: teleporter_hit_534
+  - first:
+      213: 5082164435736891217
+    second: teleporter_hit_535
+  - first:
+      213: 903505466999111077
+    second: teleporter_hit_536
+  - first:
+      213: 4630212449254407639
+    second: teleporter_hit_537
+  - first:
+      213: -872538473001221198
+    second: teleporter_hit_538
+  - first:
+      213: 8171824662099609068
+    second: teleporter_hit_539
+  - first:
+      213: 6494068159683633151
+    second: teleporter_hit_540
+  - first:
+      213: -2149278831536783306
+    second: teleporter_hit_541
+  - first:
+      213: -2613427126356553446
+    second: teleporter_hit_542
+  - first:
+      213: 1780986275871545511
+    second: teleporter_hit_543
+  - first:
+      213: -3523139950647491704
+    second: teleporter_hit_544
+  - first:
+      213: -3139023781491467238
+    second: teleporter_hit_545
+  - first:
+      213: -2316079656481673527
+    second: teleporter_hit_546
+  - first:
+      213: 3202549617573031482
+    second: teleporter_hit_547
+  - first:
+      213: -6250826152790051050
+    second: teleporter_hit_548
+  - first:
+      213: 5027881289778975533
+    second: teleporter_hit_549
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teleporter_hit_0
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2919ef7f3000c7fa0800000000000000
+      internalID: -5801762202914483822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31deb08cd3e315a40800000000000000
+      internalID: 5355129866990382355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e30f99b230387650800000000000000
+      internalID: 6230783078887785440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a065c81b77c011790800000000000000
+      internalID: -7561248591158946294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5276188b84ea413a0800000000000000
+      internalID: -6695535118636718299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_5
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f018a63a95b7dc20800000000000000
+      internalID: 3231250931608195314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a414162a3be8a16a0800000000000000
+      internalID: -6477708211844464310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a95d702da2aa2a00800000000000000
+      internalID: 732576753859254690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f920720f7c7c3370800000000000000
+      internalID: 8303648697907948016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ea2abd54bbf4470800000000000000
+      internalID: 8381123340271791634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbf40cdeb485fad0800000000000000
+      internalID: -2669081248877184011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdc388b92ee10070800000000000000
+      internalID: 8070993870181354935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81be3ccadc040090800000000000000
+      internalID: -8069310498472021621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d8ad14363812430800000000000000
+      internalID: 3756428026533547301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d575a5b4006be290800000000000000
+      internalID: -7860083151301413421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528256f4ac4389330800000000000000
+      internalID: 3717779535914412069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cd5f7582cb6d1c0800000000000000
+      internalID: -4479185897912935304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c958ef5aacf0c140800000000000000
+      internalID: 4738064616677464520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2afc357bb2121b20800000000000000
+      internalID: 3103563689546807854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8106e7540e1f64240800000000000000
+      internalID: 4775770400413868056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3f3a70e582d0310800000000000000
+      internalID: 1372797845738091459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc9038b98e4c2ae0800000000000000
+      internalID: -1572795816451466045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08972edfa44f64f80800000000000000
+      internalID: -8122536274991875712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3a97ad6a2980780800000000000000
+      internalID: -8716555833447963680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2ec94a70cf19ac0800000000000000
+      internalID: -3850019096668347707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a980401ebff6e0d0800000000000000
+      internalID: -3393744077395555936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aea67a9748a6ef0800000000000000
+      internalID: -114133182509815245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7960abdee5ac7c8a0800000000000000
+      internalID: -6284832245908109673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb487367e8a26c20800000000000000
+      internalID: 3198304397146213324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_29
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66173d749ed14bb20800000000000000
+      internalID: 3149174927208444262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3e3c36d6496aaa0800000000000000
+      internalID: -6150065043581705289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a6bdad789beb120800000000000000
+      internalID: 2431584841970182770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e075b9c4a10492e0800000000000000
+      internalID: -2120067717314285338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33679d0a130b06a0800000000000000
+      internalID: -6482083828237638854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628e113ab28d061c0800000000000000
+      internalID: -4512369144694183898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d397bdf74b07ea920800000000000000
+      internalID: 3003461922044213565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c695dbafda494d4b0800000000000000
+      internalID: -5416540976862897812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84da51724143f1080800000000000000
+      internalID: -9214589051417023160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17432cee408d4a5b0800000000000000
+      internalID: -5357920140966873999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993cbb82259fb7d70800000000000000
+      internalID: 9042094808142431129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b26e2ecc5621dac0800000000000000
+      internalID: -3832239627877588296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0845f53173387b0800000000000000
+      internalID: -5223270586476363546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3856075654b3a1370800000000000000
+      internalID: 8294006832996836739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0244f0d1909ba3f30800000000000000
+      internalID: 4556157421832061984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ed8ef318d6cece0800000000000000
+      internalID: -1374603384364409316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_45
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3313ef0c663609760800000000000000
+      internalID: 7462573875528610099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee5453ced685ec00800000000000000
+      internalID: 929297189439823591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661b887b8e5b1a6f0800000000000000
+      internalID: -675058458012634778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8517dfdc7dcebb0c0800000000000000
+      internalID: -4558789786164432552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bfc5fafff78be80800000000000000
+      internalID: -8162633588473529515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1784e4c5a3dbba0800000000000000
+      internalID: -6071632554500787726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_51
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ecf4078c8304270800000000000000
+      internalID: 8232642552362159735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e7945e5c64c2110800000000000000
+      internalID: 1237441813389344283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_53
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa29c84cefde28b0800000000000000
+      internalID: -5174952715875702018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7adfdaafb30bfe0800000000000000
+      internalID: -1175373554896754783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c635248ce7823d550800000000000000
+      internalID: 6184331238300603244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c5fd192786a39f0800000000000000
+      internalID: -487962768333382551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e510d4ba462eb53d0800000000000000
+      internalID: -3216728586827529890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f2f9f0c276b81f0800000000000000
+      internalID: -1041625449867825294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_hit_59
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bebebfa898fe8e0800000000000000
+      internalID: -1661958507451389141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

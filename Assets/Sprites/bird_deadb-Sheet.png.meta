@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: be238e1099b604940b7177ba793cdef8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7378633907498967851
+    second: bird_deadb-Sheet_0
+  - first:
+      213: 7113078013398408396
+    second: bird_deadb-Sheet_1
+  - first:
+      213: -3912491116831805684
+    second: bird_deadb-Sheet_2
+  - first:
+      213: 6325398014018879340
+    second: bird_deadb-Sheet_3
+  - first:
+      213: 7168928614410043403
+    second: bird_deadb-Sheet_4
+  - first:
+      213: 162611802133240983
+    second: bird_deadb-Sheet_5
+  - first:
+      213: 1809521754996750481
+    second: bird_deadb-Sheet_6
+  - first:
+      213: 6708656641637558065
+    second: bird_deadb-Sheet_7
+  - first:
+      213: -6729990654857717845
+    second: bird_deadb-Sheet_8
+  - first:
+      213: -7097734629312897150
+    second: bird_deadb-Sheet_9
+  - first:
+      213: 4823749834680082815
+    second: bird_deadb-Sheet_10
+  - first:
+      213: 2330100972665940154
+    second: bird_deadb-Sheet_11
+  - first:
+      213: 209653658286344816
+    second: bird_deadb-Sheet_12
+  - first:
+      213: -9021980005589189665
+    second: bird_deadb-Sheet_13
+  - first:
+      213: -2862378448586465518
+    second: bird_deadb-Sheet_14
+  - first:
+      213: -4485870775884819153
+    second: bird_deadb-Sheet_15
+  - first:
+      213: -7096530535320655310
+    second: bird_deadb-Sheet_16
+  - first:
+      213: 2087366621924634045
+    second: bird_deadb-Sheet_17
+  - first:
+      213: 2372087929975281540
+    second: bird_deadb-Sheet_18
+  - first:
+      213: 7614813226555526305
+    second: bird_deadb-Sheet_19
+  - first:
+      213: -8938599824507964849
+    second: bird_deadb-Sheet_20
+  - first:
+      213: -4149457332370851693
+    second: bird_deadb-Sheet_21
+  - first:
+      213: -4278964158643416911
+    second: bird_deadb-Sheet_22
+  - first:
+      213: 6985561747352894086
+    second: bird_deadb-Sheet_23
+  - first:
+      213: -4818029183198497033
+    second: bird_deadb-Sheet_24
+  - first:
+      213: -1270830246539832361
+    second: bird_deadb-Sheet_25
+  - first:
+      213: -3206759447295974488
+    second: bird_deadb-Sheet_26
+  - first:
+      213: 6902694447950049708
+    second: bird_deadb-Sheet_27
+  - first:
+      213: 4891672416582852702
+    second: bird_deadb-Sheet_28
+  - first:
+      213: -301220921476543777
+    second: bird_deadb-Sheet_29
+  - first:
+      213: -20769969109432647
+    second: bird_deadb-Sheet_30
+  - first:
+      213: -93242984718907313
+    second: bird_deadb-Sheet_31
+  - first:
+      213: -2026318379561012313
+    second: bird_deadb-Sheet_32
+  - first:
+      213: -6967589261066405526
+    second: bird_deadb-Sheet_33
+  - first:
+      213: 1533833177658330569
+    second: bird_deadb-Sheet_34
+  - first:
+      213: 6827851721408398055
+    second: bird_deadb-Sheet_35
+  - first:
+      213: -8483998334392571971
+    second: bird_deadb-Sheet_36
+  - first:
+      213: 2144464716205971592
+    second: bird_deadb-Sheet_37
+  - first:
+      213: 6129490779014620110
+    second: bird_deadb-Sheet_38
+  - first:
+      213: 5307853237187132667
+    second: bird_deadb-Sheet_39
+  - first:
+      213: -3531422100898029545
+    second: bird_deadb-Sheet_40
+  - first:
+      213: -1125739002004876038
+    second: bird_deadb-Sheet_41
+  - first:
+      213: 431895279376858888
+    second: bird_deadb-Sheet_42
+  - first:
+      213: 2403870926055467546
+    second: bird_deadb-Sheet_43
+  - first:
+      213: -4790922589367833803
+    second: bird_deadb-Sheet_44
+  - first:
+      213: -6076072900133701575
+    second: bird_deadb-Sheet_45
+  - first:
+      213: 8781035544258101617
+    second: bird_deadb-Sheet_46
+  - first:
+      213: -1987663157360835622
+    second: bird_deadb-Sheet_47
+  - first:
+      213: 1536763396939985665
+    second: bird_deadb-Sheet_48
+  - first:
+      213: 3972981982201570076
+    second: bird_deadb-Sheet_49
+  - first:
+      213: -2763894041450913432
+    second: bird_deadb-Sheet_50
+  - first:
+      213: 1963871196031142454
+    second: bird_deadb-Sheet_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bird_deadb-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc1fd70e83d99990800000000000000
+      internalID: -7378633907498967851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_deadb-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccd04834cab6b260800000000000000
+      internalID: 7113078013398408396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_deadb-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f6e5afe0a04b9c0800000000000000
+      internalID: -3912491116831805684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_deadb-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f7e88faf358c750800000000000000
+      internalID: 6325398014018879340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_deadb-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b004b0a97962d7360800000000000000
+      internalID: 7168928614410043403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
